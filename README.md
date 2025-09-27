@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'ma final year be student in cse(aiml)<br>currently learning python<br>contact - likithn10@gmail.com<br>web develpoement using ai<br>
+I'ma final year BE student in CSE(AIML)<br>Currently learning Python<br>Contact - likithn10@gmail.com<br>Web Develpoement using Ai<br>
 
 
 ## 🌐 Socials:
